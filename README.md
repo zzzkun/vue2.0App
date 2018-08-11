@@ -32,7 +32,7 @@
         <td>stylus</td>
         <td>git</td>
         <td>webpack 3.6</td>
-         <td>yarn</td>
+         <td>npm</td>
         <td>vue-cli</td>
     </tr>
 </table>
